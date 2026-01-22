@@ -1,16 +1,22 @@
-## Hi there 👋
+# <Your Name Here>
 
-<!--
-**ryguy8803/ryguy8803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Rylan Hoogland, a student at Brigham Young University-Idaho interested in cybersecurity, machine learning and web development . Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning to implament Parallelism and Concurrency in my programs 
+- My goals are to become a SOC Tier 1 Analyst
+- Ask me about my favorite programs
+
+## Technologies and Tools
+
+- Proficient in: <C#, Python, HTML, CSS, JavaScript, SQL >
+
+
+## Let's Connect!
+
+- Here is my LinkedIn profile  https://www.linkedin.com/in/rylan-hoogland/
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
